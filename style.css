@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root {
-  --body-bg-color: #093f6fb9;
+  --myFavoriteColor: #093f6fb9;
   --white: #f1f1f1;
 }
 
@@ -13,7 +13,7 @@
 }
 
 body {
-    background-color: var(--body-bg-color);
+    background-color: var(--myFavoriteColor);
     display: flex;
     align-items: center;
     justify-content: center;
